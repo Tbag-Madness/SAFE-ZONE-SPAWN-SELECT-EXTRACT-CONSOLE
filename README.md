@@ -9,8 +9,9 @@ Console SPAWN SELECT Mod for ChernarusPlus
 ---
 ## **Overview**
 
-This custom mod for **DayZ Console** enhances the **ChernarusPlus** map by adding **player spawn safe zones**, **bunkers**, **teleport spawn locations**, and **extraction zones**.
+This custom mod for **DayZ Console** enhances the **ChernarusPlus** map by adding a **player spawn safe zone**, **bunker**, **teleport spawn locations**, and **extraction zones**.
 The mod allows players to select their spawn point from predefined teleport locations, ensures safe storage in the base lockups, and provides two extraction zones at **Pavlovo** and **Kamensk_MB** for players to safely extract from the map.
+24X 1x1 player safe storage lockups
 ---
 
 ---

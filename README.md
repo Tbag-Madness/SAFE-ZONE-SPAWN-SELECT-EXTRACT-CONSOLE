@@ -2,8 +2,6 @@
 Console SPAWN SELECT Mod for ChernarusPlus
 
 
-
-
 # Custom DayZ Services - Console SPAWN SELECT Mod for ChernarusPlus**
 
 ## **Overview**
@@ -52,6 +50,26 @@ SPAWN_SELECT_CDS/
 │   ├── EFFECTS/
 │   │   ├── EXTRACT EFFECTS.json
 ```
+
+
+---
+
+## **Usage**
+
+To use the **Teleport Mod**, simply download the files and integrate them into your **DayZ** server. Be sure to follow the setup instructions provided in the **install.xml** file.
+
+1. Download the **`SAFE-ZONE-SPAWN-SELECT-EXTRACT-CONSOLE.rar`** and unpack the `.zip` or `.rar` folder to access the full server file pack.
+
+2. **How?** Press on the `<code>` icon in the top-right of the repository, then select `Download ZIP`.
+
+3. Once uploaded, unpack the **`SPAWN_SELECT_CDS`** folder. Inside, you will find all the necessary files for the teleport mod.
+
+4. You can use **FTP** to upload the files to your server or use your server’s dashboard and the **file upload button** (depending on your server host).
+
+5. **Important:** Make sure all files / Entrys are uploaded to the correct locations on your server. Do not skip or miss any files during the upload process.
+
+---
+
 
 ## **Important Note**
 

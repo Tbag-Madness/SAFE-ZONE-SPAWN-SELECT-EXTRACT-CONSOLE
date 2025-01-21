@@ -1,0 +1,48 @@
+		{
+			"AreaName": "EXTRACT_EFFECT_1",
+			"Type": "SpookyArea",
+			"TriggerType": "EffectTrigger",
+			"Data": {
+				"Pos": [ 7994.2299, 343.8085, 14638.3798 ],
+				"Radius": 1,
+				"PosHeight": 1,
+				"NegHeight": 1,
+				"InnerRingCount": 0,
+				"InnerPartDist": 0,
+				"OuterRingToggle": 0,
+				"OuterPartDist": 0,
+				"OuterOffset": 0,
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/smoke_M18_green_03"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": ""
+			}
+		},
+		{
+			"AreaName": "EXTRACT_EFFECT_2",
+			"Type": "SpookyArea",
+			"TriggerType": "EffectTrigger",
+			"Data": {
+				"Pos": [ 2190.7448, 139.7995, 3723.3364 ],
+				"Radius": 1,
+				"PosHeight": 1,
+				"NegHeight": 1,
+				"InnerRingCount": 0,
+				"InnerPartDist": 0,
+				"OuterRingToggle": 0,
+				"OuterPartDist": 0,
+				"OuterOffset": 0,
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/smoke_M18_green_03"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": ""
+			}
+		},
